@@ -1,0 +1,6 @@
+{
+    "tailwindCSS.emmetCompletions": true,
+    "html-css-class-completion.enableEmmetSupport": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.useInlineCompletions": true
+}
